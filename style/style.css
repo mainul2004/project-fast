@@ -1,0 +1,93 @@
+#hero{
+background-image: url("../assets/Hero-bg.png"); 
+background-size: cover;
+height: 650px;
+display: flex;
+justify-content: center;
+align-items: center;
+margin:50px 80px 50px 80px;
+}
+.hero-content{
+  width:685;  
+ margin: 0 auto; 
+
+}
+.img-pro{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding-top:10;
+}
+.title{
+    text-align: center;
+}
+.btn{
+border:none;
+   border-radius: 5px;
+   color: aliceblue;
+   background-color: rgb(15, 14, 14);
+height: 50px;
+width:150px;
+}
+.btn content{
+
+  text-align: center;  
+}
+.main-pic1{
+    text-align: center;
+
+}
+.main-pic2{
+display: flex;
+justify-content: center;
+
+}
+.main-pic{
+    margin:50px 80px 50px 80px;
+
+}
+.main-pic3{
+    display: flex; 
+    justify-content: center;
+}
+.main-pic4{
+    display: flex;
+    justify-content: center;
+}
+    .youtub-video{
+text-align: center;
+
+    }
+    .youtube{
+        text-align: center;
+        
+        width:80%; 
+        margin:0 auto ;    
+    }
+    .target{
+        text-align: center;
+        margin-top:50px;
+    }
+    #mainul{
+display: flex;
+margin-top:50px;
+    }
+.final{  
+background-image: url("../assets/handshake.jpg"); 
+background-size: cover;
+height: 650px;
+display: flex;
+justify-content: center;
+align-items: center;
+margin:50px 80px 50px 80px;} 
+.fbox{
+height:50;
+width:170 ;
+}
+.link1{
+display: flex;
+justify-content: space-between;
+margin:50px 80px 50px 80px;
+border:100px;
+background-color: azure;
+}
